@@ -1,4 +1,3 @@
 #!/bin/sh
 
-ftp -i ftp://ftp.netbsd.org/pub/pkgsrc/current/
-get pkgsrc.tar.gz
+wget ftp://ftp.netbsd.org/pub/pkgsrc/current/pkgsrc.tar.gz
